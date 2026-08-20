@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="977.370375pt" height="291.6pt" viewBox="0 0 977.370375 291.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-20T12:34:33.500091</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 291.6 
+L 977.370375 291.6 
+L 977.370375 0 
+L 0 0 
+z
+" style="fill: #0f172a"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 609.552 161.3232 
+L 699.948 161.3232 
+Q 706.644 161.3232 706.644 154.6704 
+L 706.644 98.1216 
+Q 706.644 91.4688 699.948 91.4688 
+L 609.552 91.4688 
+Q 602.856 91.4688 602.856 98.1216 
+L 602.856 154.6704 
+Q 602.856 161.3232 609.552 161.3232 
+z
+" clip-path="url(#p7ebcf4b661)" style="fill: #1e293b; stroke: #14b8a6; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 715.572 161.3232 
+L 805.968 161.3232 
+Q 812.664 161.3232 812.664 154.6704 
+L 812.664 98.1216 
+Q 812.664 91.4688 805.968 91.4688 
+L 715.572 91.4688 
+Q 708.876 91.4688 708.876 98.1216 
+L 708.876 154.6704 
+Q 708.876 161.3232 715.572 161.3232 
+z
+" clip-path="url(#p7ebcf4b661)" style="fill: #1e293b; stroke: #14b8a6; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 821.592 161.3232 
+L 911.988 161.3232 
+Q 918.684 161.3232 918.684 154.6704 
+L 918.684 98.1216 
+Q 918.684 91.4688 911.988 91.4688 
+L 821.592 91.4688 
+Q 814.896 91.4688 814.896 98.1216 
+L 814.896 154.6704 
+Q 814.896 161.3232 821.592 161.3232 
+z
+" clip-path="url(#p7ebcf4b661)" style="fill: #1e293b; stroke: #14b8a6; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="619.596" y="121.975264" transform="rotate(-0 619.596 121.975264)">AI Automation</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #94a3b8" x="619.596" y="141.882011" transform="rotate(-0 619.596 141.882011)">LLM agents · systems automation</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="725.616" y="121.934248" transform="rotate(-0 725.616 121.934248)">Python Backend</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #94a3b8" x="725.616" y="141.882011" transform="rotate(-0 725.616 141.882011)">FastAPI · REST · pytest</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="831.636" y="121.934248" transform="rotate(-0 831.636 121.934248)">Industrial AI Systems</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #94a3b8" x="831.636" y="141.882011" transform="rotate(-0 831.636 141.882011)">power electronics · UPS · automation</text>
+   </g>
+  </g>
+  <g id="text_7">
+   <text style="font-weight: 700; font-size: 40px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="7.2" y="75.68125" transform="rotate(-0 7.2 75.68125)">shayan1019</text>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #38bdf8" x="10.44" y="129.863125" transform="rotate(-0 10.44 129.863125)">Power Electronics &amp; UPS Engineering  ·  AI Application Engineering</text>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #94a3b8" x="10.44" y="175.697344" transform="rotate(-0 10.44 175.697344)">Python  ·  FastAPI  ·  REST APIs  ·  MQL5  ·  LLM Systems  ·  Automated Testing</text>
+  </g>
+  <g id="text_10">
+   <text style="font-style: italic; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #f59e0b" x="487.8" y="280.51125" transform="rotate(-0 487.8 280.51125)">validate before release</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7ebcf4b661">
+   <rect x="82.8" y="7.2" width="837" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>

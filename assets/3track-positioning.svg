@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="813.60625pt" height="457.92pt" viewBox="0 0 813.60625 457.92" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-20T12:34:33.648771</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 457.92 
+L 813.60625 457.92 
+L 813.60625 0 
+L 0 0 
+z
+" style="fill: #0f172a"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 178.09825 277.7472 
+L 357.77425 277.7472 
+Q 364.47025 277.7472 364.47025 271.0944 
+L 364.47025 103.6656 
+Q 364.47025 97.0128 357.77425 97.0128 
+L 178.09825 97.0128 
+Q 171.40225 97.0128 171.40225 103.6656 
+L 171.40225 271.0944 
+Q 171.40225 277.7472 178.09825 277.7472 
+z
+" clip-path="url(#p000ac4bcb9)" style="fill: #1e293b; stroke: #38bdf8; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 390.13825 277.7472 
+L 569.81425 277.7472 
+Q 576.51025 277.7472 576.51025 271.0944 
+L 576.51025 103.6656 
+Q 576.51025 97.0128 569.81425 97.0128 
+L 390.13825 97.0128 
+Q 383.44225 97.0128 383.44225 103.6656 
+L 383.44225 271.0944 
+Q 383.44225 277.7472 390.13825 277.7472 
+z
+" clip-path="url(#p000ac4bcb9)" style="fill: #1e293b; stroke: #14b8a6; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 602.17825 277.7472 
+L 781.85425 277.7472 
+Q 788.55025 277.7472 788.55025 271.0944 
+L 788.55025 103.6656 
+Q 788.55025 97.0128 781.85425 97.0128 
+L 602.17825 97.0128 
+Q 595.48225 97.0128 595.48225 103.6656 
+L 595.48225 271.0944 
+Q 595.48225 277.7472 602.17825 277.7472 
+z
+" clip-path="url(#p000ac4bcb9)" style="fill: #1e293b; stroke: #f59e0b; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #e2e8f0" x="164.70625" y="406.808687" transform="rotate(-0 164.70625 406.808687)">Three Engineering Tracks</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #94a3b8" x="164.70625" y="405.661744" transform="rotate(-0 164.70625 405.661744)">one discipline: validate before release</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #e2e8f0" x="267.93625" y="170.619445" transform="rotate(-0 267.93625 170.619445)">AI Automation</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="195.39625" y="137.333406" transform="rotate(-0 195.39625 137.333406)">·  LLM-driven applications &amp; agents</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="195.39625" y="171.706206" transform="rotate(-0 195.39625 171.706206)">·  Local LLM systems (llama.cpp / GGUF)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="195.39625" y="206.079006" transform="rotate(-0 195.39625 206.079006)">·  Permission-gated tool execution</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="195.39625" y="240.451806" transform="rotate(-0 195.39625 240.451806)">·  Async service orchestration</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #e2e8f0" x="479.97625" y="170.564757" transform="rotate(-0 479.97625 170.564757)">Python Backend</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="407.43625" y="137.333406" transform="rotate(-0 407.43625 137.333406)">·  FastAPI + Pydantic v2 contracts</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="407.43625" y="171.706206" transform="rotate(-0 407.43625 171.706206)">·  REST API design &amp; integration</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="407.43625" y="206.079006" transform="rotate(-0 407.43625 206.079006)">·  SQLite persistence &amp; async workers</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="407.43625" y="240.451806" transform="rotate(-0 407.43625 240.451806)">·  pytest QA discipline</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #e2e8f0" x="692.01625" y="170.564757" transform="rotate(-0 692.01625 170.564757)">Industrial AI Systems</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="619.47625" y="137.333406" transform="rotate(-0 619.47625 137.333406)">·  Power electronics &amp; UPS domain</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="619.47625" y="171.706206" transform="rotate(-0 619.47625 171.706206)">·  Engineering calculation tools</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="619.47625" y="206.079006" transform="rotate(-0 619.47625 206.079006)">·  Field validation &amp; FAT</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e2e8f0" x="619.47625" y="240.451806" transform="rotate(-0 619.47625 240.451806)">·  Python automation on shop floor</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p000ac4bcb9">
+   <rect x="136.80625" y="7.2" width="669.6" height="443.52"/>
+  </clipPath>
+ </defs>
+</svg>
