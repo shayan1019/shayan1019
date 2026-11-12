@@ -2,7 +2,7 @@
   <img src="assets/ai-systems-hero.svg" alt="Engineering reliable AI systems — agent orchestration, Python platforms and applied engineering" width="100%" />
 </p>
 
-<h1 align="center">Mohammad Ranji Kouchesfahani</h1>
+<h1 align="center">shayan1019</h1>
 <p align="center">
   <strong>AI Systems &amp; Software Engineer</strong><br/>
   Agentic AI · Python Backend · Full-Stack Engineering · Power Electronics
