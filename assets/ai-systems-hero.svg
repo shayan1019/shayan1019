@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">Engineering reliable AI systems</title>
+<desc id="desc">Mohammad Ranji Kouchesfahani, AI systems, Python engineering, agent orchestration and dependable software.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#101B2B"/><stop offset="100%" stop-color="#0A1321"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38D9C0"/><stop offset="100%" stop-color="#4B9DDF"/>
+  </linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#96AEC4" stroke-width="0.55" opacity="0.12"/>
+  </pattern>
+</defs>
+<rect width="1200" height="270" rx="14" fill="url(#bg)"/>
+<rect width="1200" height="270" rx="14" fill="url(#grid)"/>
+<rect x="48" y="45" width="32" height="3" rx="1.5" fill="url(#line)"/>
+<text x="91" y="50" fill="#65DCCB" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2">SHAYAN1019  /  ENGINEERING PORTFOLIO</text>
+<text x="48" y="115" fill="#F3F7FC" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="51" letter-spacing="-1.4">Engineering reliable</text>
+<text x="48" y="172" fill="#F3F7FC" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="51" letter-spacing="-1.4">AI systems.</text>
+<text x="49" y="210" fill="#9FB3C9" font-family="Arial,Helvetica,sans-serif" font-size="18">Agent orchestration   /   Python platforms   /   Applied engineering</text>
+<rect x="48" y="235" width="555" height="2" fill="url(#line)" opacity="0.68"/>
+<g opacity="0.6" stroke="#77A6C1" stroke-width="1.8" fill="none">
+<path d="M797 66L913 105L1029 56"/>
+<path d="M797 66L787 181L913 105L1029 194"/>
+<path d="M787 181L920 221L1029 194L1100 122L1029 56"/>
+<path d="M913 105L1100 122"/>
+</g>
+<g fill="#0E2535" stroke="#59CDBF" stroke-width="2.5">
+<circle cx="797" cy="66" r="12"/><circle cx="787" cy="181" r="12"/><circle cx="1029" cy="56" r="12"/><circle cx="1029" cy="194" r="12"/><circle cx="1100" cy="122" r="12"/><circle cx="920" cy="221" r="8"/>
+</g>
+<circle cx="913" cy="105" r="31" fill="#16384A" stroke="#63D9CA" stroke-width="2.5"/>
+<path d="M902 105l8 8 16-18" fill="none" stroke="#63D9CA" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="13" letter-spacing="1" fill="#B5CEE0">
+<text x="823" y="62">AGENTS</text><text x="813" y="187">APIs</text><text x="1050" y="50">AI / ML</text><text x="1047" y="200">QA</text>
+</g>
+</svg>
